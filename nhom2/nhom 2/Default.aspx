@@ -4,7 +4,7 @@
     <section class="featured">
         <div class="content-wrapper">
             <hgroup class="title">
-                <h1>Máy Tính Châu Á</h1>
+                <h1>Máy Tính Châu </h1>
                 <h2>&nbsp;</h2>
             </hgroup>
             <p>
